@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563839047092",
+    "project_id": "smsp-1e603",
+    "storage_bucket": "smsp-1e603.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563839047092:android:5953f77bbb9c68a2fd0ee1",
+        "android_client_info": {
+          "package_name": "com.example.smsnotifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIbOF7R2fdHmUep9FtRftUf-PrPS37Doc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
